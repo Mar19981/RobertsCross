@@ -1,0 +1,2 @@
+LIBRARY RobertsC++
+EXPORTS robertsCross
